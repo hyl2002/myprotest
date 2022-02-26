@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture2</folder>
+	<filename>21091.jpg</filename>
+	<path>/home/lny/桌面/picture2/21091.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>49</ymin>
+			<xmax>157</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

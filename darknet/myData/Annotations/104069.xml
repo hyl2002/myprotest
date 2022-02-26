@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture2</folder>
+	<filename>104069.jpg</filename>
+	<path>/home/lny/桌面/picture2/104069.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>16</ymin>
+			<xmax>154</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

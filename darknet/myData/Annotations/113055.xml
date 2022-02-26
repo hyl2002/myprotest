@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picture2</folder>
+	<filename>113055.jpg</filename>
+	<path>/home/lny/桌面/picture2/113055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>46</ymin>
+			<xmax>108</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>
